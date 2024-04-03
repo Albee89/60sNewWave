@@ -1,0 +1,15 @@
+/Users/ruthfisher-bain/60sNewWave/bin/Debug/net7.0/60sNewWave
+/Users/ruthfisher-bain/60sNewWave/bin/Debug/net7.0/60sNewWave.deps.json
+/Users/ruthfisher-bain/60sNewWave/bin/Debug/net7.0/60sNewWave.runtimeconfig.json
+/Users/ruthfisher-bain/60sNewWave/bin/Debug/net7.0/60sNewWave.dll
+/Users/ruthfisher-bain/60sNewWave/bin/Debug/net7.0/60sNewWave.pdb
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.csproj.AssemblyReference.cache
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.AssemblyInfoInputs.cache
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.AssemblyInfo.cs
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.csproj.CoreCompileInputs.cache
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.dll
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/refint/60sNewWave.dll
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.pdb
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/60sNewWave.genruntimeconfig.cache
+/Users/ruthfisher-bain/60sNewWave/obj/Debug/net7.0/ref/60sNewWave.dll
